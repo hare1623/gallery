@@ -1,0 +1,28 @@
+{
+    "assetCollection" : [
+        {
+            "imgUrl":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F57%2F19%2Fae%2F5719ae5d4d388a12df4c6b1940769deb.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fall-wallpaper--938508009819576463%2F&tbnid=FchtALfAMJD-mM&vet=12ahUKEwjTmePqgsj4AhUtgWMGHWOXB44QMygBegUIARDZAQ..i&docid=Ps4GAkf1HYpjsM&w=1080&h=2400&q=ronaldo%20wallpaper&ved=2ahUKEwjTmePqgsj4AhUtgWMGHWOXB44QMygBegUIARDZAQ",
+            "thumbnailUrl" :"",
+            "title":"Ronaldo",
+            "assetType":"Internal"
+        },
+        {
+            "imgUrl":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.wallpapersafari.com%2F78%2F61%2FuCEtVf.jpg&imgrefurl=https%3A%2F%2Fwallpapersafari.com%2Fwallpaper-of-lionel-messi%2F&tbnid=T4sLn0i4oIytIM&vet=12ahUKEwisg9L-gsj4AhV1_TgGHbcjDzAQMygBegUIARDYAQ..i&docid=V_dNyB2PJ8AhcM&w=1024&h=1820&q=messi%20wallpaper&ved=2ahUKEwisg9L-gsj4AhV1_TgGHbcjDzAQMygBegUIARDYAQ",
+            "thumbnailUrl" :"",
+            "title":"Messi",
+            "assetType":"Internal"
+        },
+        {
+            "imgUrl":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Fc0%2F20%2F5e%2Fc0205e2d8a3a3e0d8d22bf562a89390c.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F696650636090922248%2F&tbnid=FeZEC1miwyzKYM&vet=12ahUKEwjap-aQg8j4AhVKxqACHYJ7BQ4QMygAegUIARDZAQ..i&docid=s2sAZZOrJ64GCM&w=720&h=1280&q=kaka%20wallpaper&ved=2ahUKEwjap-aQg8j4AhVKxqACHYJ7BQ4QMygAegUIARDZAQ",
+            "thumbnailUrl" :"https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fjpg-file-icon-logo-element-illustration-design-155443757.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fjpg-file-icon-logo-element-illustration-design-image155443757&tbnid=ssHtmVIfGD4UeM&vet=12ahUKEwiwhoimg8j4AhWxyaACHfPUDycQMygAegUIARDeAQ..i&docid=VBXAl_rGEIZ_wM&w=800&h=800&q=image%20logo&ved=2ahUKEwiwhoimg8j4AhWxyaACHfPUDycQMygAegUIARDeAQ",
+            "title":"Kaka",
+            "assetType":"External"
+        },
+        {
+            "imgUrl":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F474x%2F79%2F9c%2F5b%2F799c5b98c51f69c54f320cc945c2a71e.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fneymar-jr-wallpaper-em-2022--890235051313997441%2F&tbnid=7ESRlGD3tvyq2M&vet=12ahUKEwiInsS_g8j4AhXN_jgGHfHtDToQMygAegUIARDZAQ..i&docid=-mAIyEHqYRPTUM&w=471&h=837&q=neymar%20wallpaper&ved=2ahUKEwiInsS_g8j4AhXN_jgGHfHtDToQMygAegUIARDZAQ",
+            "thumbnailUrl" :"https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fjpg-file-icon-logo-element-illustration-design-155443757.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fjpg-file-icon-logo-element-illustration-design-image155443757&tbnid=ssHtmVIfGD4UeM&vet=12ahUKEwiwhoimg8j4AhWxyaACHfPUDycQMygAegUIARDeAQ..i&docid=VBXAl_rGEIZ_wM&w=800&h=800&q=image%20logo&ved=2ahUKEwiwhoimg8j4AhWxyaACHfPUDycQMygAegUIARDeAQ",
+            "title":"Neymar",
+            "assetType":"External"
+        }
+    ]
+}

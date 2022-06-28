@@ -1,0 +1,9 @@
+<h1 mat-dialog-title class="item-title">{{data.title}}</h1>
+
+<div mat-dialog-content>
+    <pdf-viewer *ngIf="currentItem.type == 'Pdf' " [src]="currentItem.imgUrl" [original-size]="false" (after-load-complete)="pdfLoad=false"></pdf-viewer>
+</div>
+
+<div mat-dialog-actions class="float-right">
+    <button class="btn-transparent" mat-dialog-close cdkFocusInitial>Close</button>
+</div>
